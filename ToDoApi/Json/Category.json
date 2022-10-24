@@ -1,0 +1,22 @@
+{
+  "toDo": null,
+  "users": null,
+  "categories": [
+    {
+      "Id": 1,
+      "CategoryType": "Red",
+      "CategoryOverview": "Worst possible category"
+    },
+    {
+      "Id": 2,
+      "CategoryType": "asdasdasd",
+      "CategoryOverview": "string"
+    },
+    {
+      "Id": 3,
+      "CategoryType": "string",
+      "CategoryOverview": "string"
+    }
+  ],
+  "comments": null
+}

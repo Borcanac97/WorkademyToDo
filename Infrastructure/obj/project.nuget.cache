@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "irr8UwjG+03MakVaG963ClKXrxQvLFP2uEAvwyUjfAzxo18my7MvirGZ7TDu4FvIx7wg6Ht/Nw3BnLdhQ6zIqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ndjokic\\Desktop\\PD.Workademy\\PdWorkademy\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ndjokic\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ndjokic\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
